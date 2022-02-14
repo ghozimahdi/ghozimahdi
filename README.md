@@ -1,4 +1,4 @@
-### Hello Ismi Mbah Gojol
+### 👏 Hello Ismi Mbah Gojol 👋
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">\
