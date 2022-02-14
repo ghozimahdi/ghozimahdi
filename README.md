@@ -1,15 +1,36 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2636
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AppleColorEmoji;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Mbah Gojol</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-\f0\fs24 \cf0 ### Hi there I'm Muhammad Utsman 
-\f1 \uc0\u55357 \u56856 
-\f0 \
-\
-<a href="https://github.com/anuraghazra/github-readme-stats">\
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knalbdev&show_icons=true&theme=dark" />\
-</a>\
-}
+<a href="https://www.youtube.com/channel/UCH58S-rlkDK0oR9cTtBwQVg?sub_confirmation=1"><img alt="Mba Gojol" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+count#"/></a>
+
+Hello I am a professional developer, especially in the field of Mobile Engineer Development, I have strong problem solving and I can work in a team.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: mbahgojol@gmail.com;
+- 👨🏻‍💻 [My Channel Youtube](https://www.youtube.com/channel/UCH58S-rlkDK0oR9cTtBwQVg).
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+TypeScript   5 mins          ████████████████████████░   95.53 % 
+```
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knalbdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knalbdev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+
+
