@@ -1,7 +1,7 @@
 ### Hi Ismi Mbah Gojol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.youtube.com/channel/UCT-euivlQSi0eiz7bxcI_EA?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscriber My Channel&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
 
 Hello I am a professional developer, especially in the field of Mobile Engineer Development, I have strong problem solving and I can work in a team.
 
