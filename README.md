@@ -1,28 +1,11 @@
-###👏 Hello Ismi Mbah Gojol 👋
+### Hi Ismi <a href="https://gkassym.netlify.app" target="_blank">Mbah Gojol </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.youtube.com/channel/UCH58S-rlkDK0oR9cTtBwQVg?sub_confirmation=1"><img alt="Mba Gojol" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+count#"/></a>
+<a href="https://www.youtube.com/channel/UCT-euivlQSi0eiz7bxcI_EA?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
 
 Hello I am a professional developer, especially in the field of Mobile Engineer Development, I have strong problem solving and I can work in a team.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-  
-
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: mbahgojol@gmail.com;
-- 👨🏻‍💻 [My Channel Youtube](https://www.youtube.com/channel/UCH58S-rlkDK0oR9cTtBwQVg).
-
-</br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-TypeScript   5 mins          ████████████████████████░   95.53 % 
-```
-<!--END_SECTION:waka-->
-
 
 📈 **My GitHub Stats:**
 
