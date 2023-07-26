@@ -2,7 +2,8 @@
 
 <!-- <a href="https://www.youtube.com/channel/UCT-euivlQSi0eiz7bxcI_EA?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>  -->
 
-Hello I am a professional developer, especially in the field of Mobile Engineer Development, I have strong problem solving and I can work in a team.
+Hallo nama saya Ghozi Mahdi, 
+Hmm suka banget experiment dan sharing.
 
 <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
