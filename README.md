@@ -1,4 +1,4 @@
-### Hi Ismi Mbah Gojol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi Ismi Ghozi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- <a href="https://www.youtube.com/channel/UCT-euivlQSi0eiz7bxcI_EA?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>  -->
 
