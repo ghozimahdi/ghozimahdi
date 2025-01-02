@@ -28,7 +28,7 @@ I am also actively developing CLI tools to streamline Flutter project management
 
 #### 🔧 **CLI Tools**  
 - Developed CLI tools using **Rust** to manage Flutter projects (e.g., `Ghozi Mahdi CLI`).  
-  - [gm-cli GitHub Repository]([https://github.com/mbahgojol/gm](https://github.com/mbahgojol/homebrew-ghozimahdi-cli))  
+  - [gm-cli GitHub Repository](https://github.com/mbahgojol/homebrew-ghozimahdi-cli)  
 ---
 
 📈 **My GitHub Stats:**  
