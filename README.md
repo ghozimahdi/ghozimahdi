@@ -6,6 +6,9 @@ I am a **Mobile Engineer** with expertise in building scalable and maintainable 
 Currently expanding my capabilities in **Fullstack Development**, I enjoy experimenting with new technologies and sharing knowledge with the community.  
 I am also actively developing CLI tools to streamline Flutter project management and configuration.
 
+💡 **Note**  
+I currently have two GitHub accounts and am in the process of transitioning to my second account:  
+👉 [GitHub: mbahgojol](https://github.com/mbahgojol)
 ---
 
 🛠 **Skills**  
