@@ -23,15 +23,16 @@ I currently have two GitHub accounts and am in the process of transitioning to m
 
 📂 **Portfolio**  
 
+#### 🔧 **Ghozi Mahdi CLI Tools**  
+- Developed CLI tools using **Rust** to manage Flutter projects (e.g., `Ghozi Mahdi CLI`).  
+  - [gm-cli GitHub Repository](https://github.com/mbahgojol/homebrew-ghozimahdi-cli)  
+
 #### 🏗 **Ghozi Mahdi Flutter Pipeline**  
 - Designed a robust Flutter project pipeline that implements **Clean Architecture** and **modularization**.  
 - Integrated automated testing, CI/CD workflows, and check code quality.  
 - Supports deployment to Firebase App Distribution.  
 - Works seamlessly with **Ghozi Mahdi CLI Tools**.  
 
-#### 🔧 **CLI Tools**  
-- Developed CLI tools using **Rust** to manage Flutter projects (e.g., `Ghozi Mahdi CLI`).  
-  - [gm-cli GitHub Repository](https://github.com/mbahgojol/homebrew-ghozimahdi-cli)  
 ---
 
 📈 **My GitHub Stats:**  
