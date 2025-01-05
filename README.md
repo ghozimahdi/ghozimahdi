@@ -24,8 +24,14 @@ I currently have two GitHub accounts and am in the process of transitioning to m
 📂 **Portfolio**  
 
 #### 🔧 **Ghozi Mahdi CLI Tools**  
-- Developed CLI tools using **Rust** to manage Flutter projects (e.g., `Ghozi Mahdi CLI`).  
-  - [gm-cli GitHub Repository](https://github.com/mbahgojol/homebrew-ghozimahdi-cli)  
+Developed CLI tools using Rust to manage Flutter projects (e.g., `Ghozi Mahdi CLI`).  
+- [gm-cli](https://github.com/ghozimahdi/homebrew-ghozimahdi-cli)  
+
+## Key Features of gm CLI include:
+- **Project Generator**: Quickly generate new Flutter projects with a well-organized Clean Architecture structure.  
+- **Encrypt & Decrypt Configuration**: Securely manage configuration files with built-in encryption and decryption functionality.  
+- **Modular Management**: Simplify the handling of modules in Flutter projects, supporting both small and large-scale applications.  
+- **High Performance**: Developed in Rust to deliver optimal performance across different platforms.  
 
 #### 🏗 **Ghozi Mahdi Flutter Pipeline**  
 - Designed a robust Flutter project pipeline that implements **Clean Architecture** and **modularization**.  
