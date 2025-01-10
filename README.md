@@ -13,11 +13,12 @@ I currently have two GitHub accounts and am in the process of transitioning to m
 
 🛠 **Skills**  
 - **Languages**: Dart, Kotlin, Swift, JavaScript, Go, Rust, Python, ReactNative  
-- **Frameworks & Tools**: Flutter, ReactJS, Node.js  
+- **Frameworks & Tools**: Flutter, ReactJS, Node.js, Express.js  
 - **State Management**: BLoC, GetX, Provider, RiverPod  
 - **Tools**: Firebase, Hive, Sentry, Netcore, Segment, Docker  
-- **Databases**: MongoDB, MySQL, SQLite, PostgreSQL  
-- **Others**: Clean Architecture, Modularization, API Integration, CLI Development  
+- **Databases**: MongoDB, MySQL, SQLite, PostgreSQL
+- **Cloud Services**: Alibaba Cloud, Google Cloud  
+- **Others**: Clean Architecture, Modularization, API Integration, CLI Development, CI/CD Pipelines  
 
 ---
 
